@@ -1,0 +1,215 @@
+PoseLandmark.NOSE
+PoseLandmark.RIGHT_SHOULDER
+PoseLandmark.RIGHT_ELBOW
+PoseLandmark.RIGHT_WRIST
+PoseLandmark.LEFT_SHOULDER
+PoseLandmark.LEFT_ELBOW
+PoseLandmark.LEFT_WRIST
+PoseLandmark.RIGHT_HIP
+PoseLandmark.RIGHT_KNEE
+PoseLandmark.RIGHT_ANKLE
+PoseLandmark.LEFT_HIP
+PoseLandmark.LEFT_KNEE
+PoseLandmark.LEFT_ANKLE
+PoseLandmark.LEFT_FOOT_INDEX
+PoseLandmark.LEFT_HEEL
+PoseLandmark.RIGHT_FOOT_INDEX
+PoseLandmark.RIGHT_HEEL
+
+
+NOSE = 0
+RIGHT_SHOULDER = 1
+RIGHT_ELBOW = 2
+RIGHT_WRIST = 3
+LEFT_SHOULDER = 4
+LEFT_ELBOW = 5
+LEFT_WRIST = 6
+RIGHT_HIP = 7
+RIGHT_KNEE = 8
+RIGHT_ANKLE = 9
+LEFT_HIP = 10
+LEFT_KNEE = 11
+LEFT_ANKLE = 12
+LEFT_FOOT_INDEX = 13
+LEFT_HEEL = 14
+RIGHT_FOOT_INDEX = 15
+RIGHT_HEEL = 16
+
+
+
+class PoseLandmark(Enum):
+    NOSE = 0
+    NECK = 1
+    RIGHT_SHOULDER = 2
+    RIGHT_ELBOW = 3
+    RIGHT_WRIST = 4
+    LEFT_SHOULDER = 5
+    LEFT_ELBOW = 6
+    LEFT_WRIST = 7
+    MID_HIP = 8
+    RIGHT_HIP = 9
+    RIGHT_KNEE = 10
+    RIGHT_ANKLE = 11
+    LEFT_HIP = 12
+    LEFT_KNEE = 13
+    LEFT_ANKLE = 14
+    LEFT_FOOT_INDEX = 15
+    LEFT_ANKLE = 16
+    LEFT_HEEL = 17
+    RIGHT_FOOT_INDEX = 18
+    RIGHT_ANKLE = 19
+    RIGHT_HEEL = 20
+    back =21
+
+
+
+PoseLandmark.NOSE
+PoseLandmark.RIGHT_SHOULDER
+PoseLandmark.RIGHT_ELBOW
+PoseLandmark.RIGHT_WRIST
+PoseLandmark.LEFT_SHOULDER
+PoseLandmark.LEFT_ELBOW
+PoseLandmark.LEFT_WRIST
+PoseLandmark.RIGHT_HIP
+PoseLandmark.RIGHT_KNEE
+PoseLandmark.RIGHT_ANKLE
+PoseLandmark.LEFT_HIP
+PoseLandmark.LEFT_KNEE
+PoseLandmark.LEFT_ANKLE
+PoseLandmark.LEFT_FOOT_INDEX
+PoseLandmark.LEFT_ANKLE
+PoseLandmark.LEFT_HEEL
+PoseLandmark.RIGHT_FOOT_INDEX
+PoseLandmark.RIGHT_ANKLE
+PoseLandmark.RIGHT_HEEL
+
+
+
+
+
+
+
+
+
+
+
+
+PoseLandmark.NOSE
+neck
+PoseLandmark.RIGHT_SHOULDER
+PoseLandmark.RIGHT_ELBOW
+PoseLandmark.RIGHT_WRIST
+PoseLandmark.LEFT_SHOULDER
+PoseLandmark.LEFT_ELBOW
+PoseLandmark.LEFT_WRIST
+mid_hip
+PoseLandmark.RIGHT_HIP
+PoseLandmark.RIGHT_KNEE
+PoseLandmark.RIGHT_ANKLE
+PoseLandmark.LEFT_HIP
+PoseLandmark.LEFT_KNEE
+PoseLandmark.LEFT_ANKLE
+PoseLandmark.LEFT_FOOT_INDEX
+PoseLandmark.LEFT_ANKLE
+PoseLandmark.LEFT_HEEL
+PoseLandmark.RIGHT_FOOT_INDEX
+PoseLandmark.RIGHT_ANKLE
+PoseLandmark.RIGHT_HEEL
+back
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PoseLandmark.NOSE
+neck
+PoseLandmark.RIGHT_SHOULDER
+PoseLandmark.RIGHT_ELBOW
+PoseLandmark.RIGHT_WRIST
+PoseLandmark.LEFT_SHOULDER
+PoseLandmark.LEFT_ELBOW
+PoseLandmark.LEFT_WRIST
+mid hip take righthip + lefthip/2
+PoseLandmark.RIGHT_HIP
+PoseLandmark.RIGHT_KNEE
+PoseLandmark.RIGHT_ANKLE
+PoseLandmark.LEFT_HIP
+PoseLandmark.LEFT_KNEE
+PoseLandmark.LEFT_ANKLE
+PoseLandmark.LEFT_FOOT_INDEX
+PoseLandmark.LEFT_ANKLE
+PoseLandmark.LEFT_HEEL
+PoseLandmark.RIGHT_FOOT_INDEX
+PoseLandmark.RIGHT_ANKLE
+PoseLandmark.RIGHT_HEEL
+
+
+
+
+PoseLandmark.RIGHT_EYE //remove this
+PoseLandmark.LEFT_EYE //rem
+PoseLandmark.RIGHT_EAR //re
+PoseLandmark.LEFT_EAR //re
+
+
+19 openpose left big toe
+20 l small toe
+21 l heel
+
+
+31 left foot index
+27 left ankle 
+29 left heel
+
+22 openpose right big toe
+23 r small toe
+24 r heel
+
+32  right foot index
+38  right ankle
+30  right heel
+
+25  give it 0
+
+
+
+
+
+PoseLandmark.LEFT_ELBOW
+PoseLandmark.RIGHT_ELBOW
+PoseLandmark.LEFT_WRIST
+PoseLandmark.RIGHT_WRIST
+PoseLandmark.LEFT_PINKY
+PoseLandmark.RIGHT_PINKY
+PoseLandmark.LEFT_INDEX
+PoseLandmark.RIGHT_INDEX
+PoseLandmark.LEFT_THUMB
+PoseLandmark.RIGHT_THUMB
+
+
+
+
+
+
+
