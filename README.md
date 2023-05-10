@@ -1,5 +1,5 @@
 # fall_detection
-PLease save it and edit 
+PLease save it and then edit your own colab.I have give edit rights to this
 colab_link:- https://colab.research.google.com/drive/1ZZSXEKuLt9lK4BMcnsxVdW9KNTilIc4Z?usp=sharing
 
 
